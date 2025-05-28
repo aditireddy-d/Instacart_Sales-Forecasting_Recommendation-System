@@ -1,2 +1,3 @@
 # Instacart_Sales-Forecasting_Recommendation-System
 A Python and ML based project that analyzes Instacart customer orders to forecast future sales and generate personalized product recommendations.
+It includes exploratory data analysis and visualizations. It features reorder prediction using XGBoost and collaborative filtering via KNN. Customer segmentation is used to deliver personalized deals, while smart promotional strategies are designed for inactive users tailored to their shopping behavior, as well as the day and time of engagement.
